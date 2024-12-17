@@ -54,3 +54,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Imortant Link
 
+Medium Blog: - [Link](https://medium.com/@vanapatlamanasa/classifying-cats-vs-dogs-a-deep-dive-into-cnns-680ff54c8339)
